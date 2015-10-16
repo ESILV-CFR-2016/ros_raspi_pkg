@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rostestm")
+set(rostestm_MAINTAINER "Halim Djerroud <hdd@ai.univ-paris8.fr>")
+set(rostestm_DEPRECATED "")
+set(rostestm_VERSION "0.0.0")
+set(rostestm_BUILD_DEPENDS "roscpp" "std_msgs" "message_generation")
+set(rostestm_RUN_DEPENDS "roscpp" "std_msgs" "message_runtime")
+set(rostestm_BUILDTOOL_DEPENDS "catkin")

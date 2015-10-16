@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+  <name>bb_motor</name>
+  <version>0.0.1</version>
+  <description>The bb_motor package</description>
+
+  <maintainer email="hdd@ai.univ-paris8.fr">Halim DJERROUD</maintainer>
+
+  <license>GPLv3</license>
+
+  <!-- <url type="website">http://wiki.ros.org/bb_motor</url> -->
+  <author email="hdd@ai.univ-paris8.fr">Halim DJERROUD</author>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+ 
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>

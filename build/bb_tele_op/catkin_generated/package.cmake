@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "bb_tele_op")
+set(bb_tele_op_MAINTAINER "Halim DJERROUD <hdd@ai.univ-paris8.fr>")
+set(bb_tele_op_DEPRECATED "")
+set(bb_tele_op_VERSION "0.0.1")
+set(bb_tele_op_BUILD_DEPENDS "roscpp" "std_msgs")
+set(bb_tele_op_RUN_DEPENDS "roscpp" "std_msgs")
+set(bb_tele_op_BUILDTOOL_DEPENDS "catkin")

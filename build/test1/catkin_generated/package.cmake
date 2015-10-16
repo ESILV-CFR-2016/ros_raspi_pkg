@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "test1")
+set(test1_MAINTAINER "Halim DJERROUD <hdd@ai.univ-paris8.fr>")
+set(test1_DEPRECATED "")
+set(test1_VERSION "0.0.0")
+set(test1_BUILD_DEPENDS "roscpp" "std_msgs" "message_generation")
+set(test1_RUN_DEPENDS "message_runtime" "roscpp" "std_msgs")
+set(test1_BUILDTOOL_DEPENDS "catkin")

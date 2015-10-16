@@ -1,0 +1,2 @@
+bb_motor:bb_tele_op
+-DCATKIN_DEVEL_PREFIX=/home/viki/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/viki/catkin_ws/install -G Unix Makefiles

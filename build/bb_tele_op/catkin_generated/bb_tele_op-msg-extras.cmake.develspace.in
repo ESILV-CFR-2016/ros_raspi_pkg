@@ -1,0 +1,2 @@
+set(bb_tele_op_MESSAGE_FILES "/home/viki/catkin_ws/src/bb_tele_op/msg/keys.msg")
+set(bb_tele_op_SERVICE_FILES "")

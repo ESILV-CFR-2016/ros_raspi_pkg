@@ -1,0 +1,2 @@
+set(test1_MESSAGE_FILES "/home/viki/catkin_ws/src/test1/msg/Num.msg")
+set(test1_SERVICE_FILES "/home/viki/catkin_ws/src/test1/srv/AddTwoInts.srv")

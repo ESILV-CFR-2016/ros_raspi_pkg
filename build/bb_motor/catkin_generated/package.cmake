@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "bb_motor")
+set(bb_motor_MAINTAINER "Halim DJERROUD <hdd@ai.univ-paris8.fr>")
+set(bb_motor_DEPRECATED "")
+set(bb_motor_VERSION "0.0.1")
+set(bb_motor_BUILD_DEPENDS "roscpp" "std_msgs")
+set(bb_motor_RUN_DEPENDS "roscpp" "std_msgs")
+set(bb_motor_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_ws/devel_isolated/rostestm
+
+Name: rostestm
+Description: Description of rostestm
+Version: 0.0.0
+Cflags: -I/home/viki/catkin_ws/devel_isolated/rostestm/include
+Libs: -L/home/viki/catkin_ws/devel_isolated/rostestm/lib 
+Requires: roscpp std_msgs message_runtime
